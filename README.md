@@ -1,5 +1,3 @@
-# animaapp
-# My code for RPA website 
 import React from "react";
 
 // Services offered
